@@ -6,7 +6,7 @@ export const ukraineLanguage = {
     changeStatus: 'Змінити статус',
     shipping: 'Доставка',
     status: 'Статус',
-    dispatchTime: 'Час відправлення',
+    dispatchTime: 'Витрачений час',
     arrivalTime: 'Час прибуття',
     registerDate: 'Дата реєстрації',
     send: 'ПОЧАТИ ВІДПРАВЛЕННЯ',
